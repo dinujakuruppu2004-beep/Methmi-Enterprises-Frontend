@@ -73,8 +73,8 @@ export default function AboutPage() {
             />
           </div>
           <p className="mt-3 text-center text-xs text-ink-700">
-            [OWNER PHOTO] — placeholder image. Replace with a real photo of the
-            founder or team.
+                       Methmi Walakanda
+            
           </p>
         </div>
       </div>
